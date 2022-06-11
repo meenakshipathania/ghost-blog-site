@@ -68,6 +68,7 @@ is the very first element in the post content */
 /* Now the content typography styles */
 .gh-content h1 {
     font-size: 3rem;
+    /* margin-bottom: 40px; */
 }
 
 .gh-content h2 {
@@ -96,7 +97,7 @@ is the very first element in the post content */
 
 .gh-content a {
     color: var(--ghost-accent-color);
-    text-decoration: underline;
+    text-decoration: none;
     word-break: break-word;
 }
 
@@ -109,6 +110,7 @@ is the very first element in the post content */
 .gh-content > dl,
 .gh-content > p {
     font-size: 1.7rem;
+    font-weight: 900;
 }
 
 .gh-content .kg-callout-card .kg-callout-text,

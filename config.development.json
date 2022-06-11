@@ -11,7 +11,18 @@
     }
   },
   "mail": {
-    "transport": "Direct"
+    "from": "ghosttesting0404@gmail.com",
+    "transport": "SMTP",
+    "options": {
+      "host": "smtp.gmail.com",
+      "service": "Gmail",
+      "port": "465",
+      "secure": true,
+      "auth": {
+        "user": "ghosttesting0404@gmail.com",
+        "pass": "bgubbaiasxaeucvo"
+      }
+    }
   },
   "logging": {
     "transports": [
