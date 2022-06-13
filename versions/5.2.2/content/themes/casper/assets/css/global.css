@@ -265,6 +265,9 @@ th {
     padding: 0;
 }
 
+.single-content.gh-content.kg-canva {
+    margin: 50px 200px;
+}
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
@@ -425,7 +428,7 @@ h6 {
 }
 
 h1 {
-    margin: 0 0 0.5em 0;
+    margin: 30px 0 0.5em 0;
     font-size: 4.8rem;
     font-weight: 700;
     letter-spacing: -0.015em;
