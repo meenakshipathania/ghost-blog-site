@@ -6,8 +6,8 @@
   },
   "database": {
     "client": "sqlite3",
-    "connection": {
-      "filename": "/home/browsewire/empt/content/data/ghost-local.db"
+      "connection": {
+        "filename": "/home/browsewire/empt/content/data/ghost-local.db"
     }
   },
   "mail": {
